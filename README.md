@@ -1,5 +1,5 @@
 # Project_Name_Placeholder
-*Collaborators: Sy Flores, *
+*Collaborators: Sy Flores,*
 
 ## **Development**
 Our analysis will accomplish the following:
