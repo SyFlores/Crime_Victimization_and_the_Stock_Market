@@ -1,7 +1,10 @@
 ## **Source List**
 We will attempt to best summarize the rationale for selection, intended use, as well as any other details or limitations with the primary data sources we have selected.
+
 ---
+
 **Data Source1**
+
 **Disclaimer:** We will largely be using definitions as noted by the Bureau of Justice Statistics as to avoid straying from the intended interpretation of the dataset.
 - What is this data?
   - Source
