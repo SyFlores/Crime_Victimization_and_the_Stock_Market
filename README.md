@@ -1,5 +1,5 @@
 # Project_Name_Placeholder
-*Collaborators: Sy Flores,*
+*Collaborators: Kate Bessonova-Belmont, Sy Flores, Jade Jimenez, Benjamin Wankmuller*
 
 ## **Development**
 Our analysis will accomplish the following:
