@@ -1,6 +1,42 @@
 # Project_Name_Placeholder
 *Collaborators: Kate Bessonova-Belmont, Sy Flores, Jade Jimenez, Benjamin Wankmuller*
 
+---
+
+## **Table of Contents**
+- [Abstract](#abstract)
+- [Hypothesis](#hypothesis)
+- [Body](#body)
+  - [Data](#data)
+  - [Methodology](#methodology)
+  - [Analysis](#analysis)
+  - [Results](#results)
+- [Conclusion](#conclusion)
+- [Sources](#sources)
+
+---
+
+## Abstract
+
+## Hypothesis
+
+## Body
+
+### Data
+
+### Methodology
+
+### Analysis
+
+### Results
+
+## Conclusion
+
+---
+
+## Sources
+
+
 ## **Development**
 Our analysis will accomplish the following:
 - Use Pandas to clean and format our datasets
