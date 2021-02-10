@@ -5,7 +5,6 @@
 
 ## **Table of Contents**
 - [Abstract](#abstract)
-- [Hypothesis](#hypothesis)
 - [Body](#body)
   - [Data](#data)
   - [Methodology](#methodology)
@@ -17,8 +16,8 @@
 ---
 
 ## Abstract
+Lifestyle exposure theory posits that persons with certain demographic profiles are more prone to experience criminal victimization because their lifestyles expose risky situations. This logic suggests that the well‐established relationship between demographic characteristics, such as gender, and victimization, is fully mediated by lifestyles and exposure to risk. To date, empirical studies have found consistent support for the theory, particularly with respect to personal and property victimization . (Source: Lifestyle Exposure Theory of Victimization, Aries Madero-Hernandez, Encyclopedia of Women and Crime, First Published 23 August 2019)
 
-## Hypothesis
 
 ## Body
 
@@ -33,7 +32,9 @@ These data sources are reliable and easily obtainable
 1)Importing Data
 2)Data Exploration
 3)Data Cleaning throughout the EDA process
++++ Data Cleaning Process Discription, Creating New Data Frames Process Discription
 4)Plotting was created using matplotlib notebook and matplotlib inline 
+
 ### Analysis
 Research Questions include:
 1)Does the performance of the stock market correlate with crime in the United States?
@@ -47,7 +48,8 @@ Research Questions include:
 ---
 
 ## Sources
-
+1)Bureau of Justice National Crime Victimization Survey (NCVS) API https://www.bjs.gov/developer/ncvs/personalFields.cfm#ethnic1R
+2)Dow Jones Industrial Average (^DJI) Historical Data - Yahoo Financehttps://finance.yahoo.com/quote/%5EDJI/history/
 
 ## **Development**
 Our analysis will accomplish the following:
