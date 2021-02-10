@@ -22,11 +22,23 @@
 
 ## Body
 
-### Data
+### Data 
+1)Bureau of Justice National Crime Victimization Survey (NCVS) API
+2)Dow JOnes Industrial Average Data from Yahoo Finance
+DJI Open, High, Low, Close and Volume data for each day since 1993
+Chosen datasets are from well-established sources. Both govwrnment crime datat and stock results have been documented extensively throughout the years.
+These data sources are reliable and easily obtainable
 
 ### Methodology
-
+1)Importing Data
+2)Data Exploration
+3)Data Cleaning throughout the EDA process
+4)Plotting was created using matplotlib notebook and matplotlib inline 
 ### Analysis
+Research Questions include:
+1)Does the performance of the stock market correlate with crime in the United States?
+2)Are certain age groups more likely to be victims of certain crimes?
+3)Have victimization rates changed over time?
 
 ### Results
 
