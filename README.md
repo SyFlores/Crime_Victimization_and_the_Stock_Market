@@ -42,7 +42,7 @@ Research Questions include:
 3)Have victimization rates changed over time?
 
 ### Results
-**Research results and further reasearch development
+**Research results and further reasearch development: 
 From what we are able to see, in years where the DJI had a poor performance, victimization rates showed increases at times for the following year for ages 34 to 49
 While not apparent as to how these may be related, it suggest sufficient evidence between the two variables to warrant further investigation
 Supplemental data sources would be required to properly assess these trends among the observed demographics
