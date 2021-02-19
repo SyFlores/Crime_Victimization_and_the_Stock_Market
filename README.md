@@ -1,5 +1,7 @@
 # Crime Victimization and the Stock Market
+
 *Collaborators: Kate Bessonova-Belmont, Sy Flores, Jade Jimenez, Benjamin Wankmuller*
+
 ---
 ## **Table of Contents**
 - [Abstract](#abstract)
