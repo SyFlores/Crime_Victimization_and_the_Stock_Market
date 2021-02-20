@@ -22,7 +22,18 @@ Lifestyle exposure theory posits that persons with certain demographic profiles 
 ## Body
 
 ### Data 
-1. Bureau of Justice National Crime Victimization Survey (NCVS) API
+1. [Personal Victimization 1993-2019 Dataset](https://www.bjs.gov/developer/ncvs/index.cfm) from Bureau of Justice Statistics, National Crime Victimization Survey
+**Disclaimer:** We will largely be using definitions as noted by the Bureau of Justice Statistics as to avoid straying from the intended interpretation of the dataset.
+  - Description
+    - The survey provides data on violent and property victimization by select victim, household, and incident characteristics. The NCVS is the nation's(USA) primary source of information on criminal victimization. It is an annual data collection conducted by the U.S. Census Bureau for the Bureau of Justice Statistics. The NCVS collects information from a nationally representative sample of U.S. households on nonfatal crimes, reported and not reported to the police, against persons age 12 or older.
+  - **Personal Victimization**
+    - Definition: Personal victimization includes all violent victimization (rape or sexual assault, robbery, aggravated assault, simple assault) and personal theft.
+  - Notable Variable Descriptions:
+    - **Year**
+    - **Weight**
+    - **ager**
+    - **newcrime**
+  
 2. Dow Jones Industrial Average Data from Yahoo Finance
 DJI Open, High, Low, Close and Volume data for each day since 1993
 Chosen datasets are from well-established sources. Both govwrnment crime datat and stock results have been documented extensively throughout the years.
