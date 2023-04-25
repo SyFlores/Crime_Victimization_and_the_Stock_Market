@@ -33,7 +33,7 @@ We are looking to identify which lifestyles will be impacted most heavily by sto
 > **Source: Lifestyle Exposure Theory of Victimization, Aries Madero-Hernandez, Encyclopedia of Women and Crime, First Published 23 August 2019**
 
 ## Repository
-This section serves as a means to navigate the project/repository.
+This section serves as a means to navigate the project and repository.
 - **Analysis**
   - Analysis.ipynb
     - This Jupyter Notebook serves as the primary visualization and analysis file
